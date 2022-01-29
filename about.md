@@ -9,5 +9,4 @@ permalink: /about/
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+I also play the saxophone, write music, and am working on a game with some friends <a href="https://twitter.com/PocketGuava"> Check out some (very outdated) information about it here!</a>
