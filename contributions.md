@@ -25,3 +25,5 @@ Replace the first row with your own contribution.
 | Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
 |  Feb 20   | https://github.com/ossd-sp22/block-off/issues/6    |  add-on project   |   I made an issue in which i proposed the addition of a new feature which I would ideally do during the coming week if the project's owner's give me the ok. This new feature would add on the ability to make custom blacklists that the user could create so they would be blocked from those sites when the plugin is on.  |
 |  March 1   | https://www.openstreetmap.org/changeset/117988294    |  OpenStreetMap   | Added information on a buildilng and a local business on openstreet map that wasnt previously listed on the map  |
+|  March 5   | https://www.openstreetmap.org/changeset/118143802   |  OpenStreetMap   | Added Restaurants/Hours as well as updated name of Sky Apartment Buildings   |
+|  March 5   | https://www.openstreetmap.org/changeset/118143940  |  OpenStreetMap   | Added Restaurants/Stores on 5th Avenue    |
