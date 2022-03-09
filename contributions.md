@@ -27,3 +27,4 @@ Replace the first row with your own contribution.
 |  March 1   | https://www.openstreetmap.org/changeset/117988294    |  OpenStreetMap   | Added information on a buildilng and a local business on openstreet map that wasnt previously listed on the map  |
 |  March 5   | https://www.openstreetmap.org/changeset/118143802   |  OpenStreetMap   | Added Restaurants/Hours as well as updated name of Sky Apartment Buildings   |
 |  March 5   | https://www.openstreetmap.org/changeset/118143940  |  OpenStreetMap   | Added Restaurants/Stores on 5th Avenue    |
+|  March 5   | https://www.openstreetmap.org/changeset/118291840  |  OpenStreetMap   | Added Restaurants I previously missed on 5th Avenue    |
