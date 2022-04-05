@@ -31,3 +31,4 @@ Replace the first row with your own contribution.
 |  March 9   | https://www.openstreetmap.org/changeset/118292249  |  OpenStreetMap   | Added Restaurants Saint marks   |
 |  March 13   | https://www.openstreetmap.org/changeset/118452052  |  OpenStreetMap   | Added Restaurant and removed closed buisnesses in Brooklyn  |
 |  March 27   | https://www.openstreetmap.org/changeset/119001229  |  OpenStreetMap   | Added new location for business that moved.  |
+|  Apr 4   | https://www.openstreetmap.org/changeset/119323999 |  OpenStreetMap   | Added new location for Restuarant.  |
