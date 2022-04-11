@@ -32,3 +32,5 @@ Replace the first row with your own contribution.
 |  March 13   | https://www.openstreetmap.org/changeset/118452052  |  OpenStreetMap   | Added Restaurant and removed closed buisnesses in Brooklyn  |
 |  March 27   | https://www.openstreetmap.org/changeset/119001229  |  OpenStreetMap   | Added new location for business that moved.  |
 |  Apr 4   | https://www.openstreetmap.org/changeset/119323999 |  OpenStreetMap   | Added new location for Restuarant.  |
+|  Apr 10   | https://www.openstreetmap.org/changeset/119555967|  OpenStreetMap   | Changed empty location to restuarant  |
+|  Apr 10   | https://github.com/oppia/oppia/issues/10474#issuecomment-1094414607|  OPPIA: Documentation   | identified typescript files with too many dependencies to be useable.  |
