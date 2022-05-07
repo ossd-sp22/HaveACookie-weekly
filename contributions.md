@@ -35,5 +35,5 @@ Replace the first row with your own contribution.
 |  Apr 10   | https://www.openstreetmap.org/changeset/119555967|  OpenStreetMap   | Changed empty location to restuarant  |
 |  Apr 20   | https://github.com/codinasion/codinasion/pull/488 |  Codinasion   | Contributed small feature in JAVA |
 |  May 3   | https://github.com/codinasion/codinasion-programme/pull/538 |  Codinasion   | Contributed small feature in JAVA |
-
+|  May 7   | https://github.com/codinasion/codinasion-programme/pull/545 |  Codinasion   | Contributed small feature in JAVA |
 
