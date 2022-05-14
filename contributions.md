@@ -36,4 +36,5 @@ Replace the first row with your own contribution.
 |  Apr 20   | https://github.com/codinasion/codinasion/pull/488 |  Codinasion   | Contributed small feature in JAVA |
 |  May 3   | https://github.com/codinasion/codinasion-programme/pull/538 |  Codinasion   | Contributed small feature in JAVA |
 |  May 7   | https://github.com/codinasion/codinasion-programme/pull/545 |  Codinasion   | Contributed small feature in JAVA |
+| May 14| https://github.com/codinasion/codinasion-programme/issues/550#issuecomment-1126810998| Codinasion| Suggested new feature|
 
